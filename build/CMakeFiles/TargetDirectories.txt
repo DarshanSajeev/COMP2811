@@ -1,0 +1,5 @@
+/workspaces/COMP2811/build/CMakeFiles/rebuild_cache.dir
+/workspaces/COMP2811/build/CMakeFiles/edit_cache.dir
+/workspaces/COMP2811/build/CMakeFiles/test_quake.dir
+/workspaces/COMP2811/build/CMakeFiles/test_dataset.dir
+/workspaces/COMP2811/build/CMakeFiles/quaketool.dir
