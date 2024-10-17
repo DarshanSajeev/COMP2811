@@ -6,8 +6,20 @@
 
 #IncludeRegexTransform: 
 
+/workspaces/COMP2811/dataset.cpp
+dataset.hpp
+/workspaces/COMP2811/dataset.hpp
+stdexcept
+-
+algorithm
+-
+numeric
+-
+
 /workspaces/COMP2811/dataset.hpp
 vector
+-
+string
 -
 quake.hpp
 /workspaces/COMP2811/quake.hpp
